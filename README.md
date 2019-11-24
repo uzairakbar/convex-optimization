@@ -5,9 +5,11 @@ This project lists all of the exercises and deliverables for the TUM class [Conv
 * [Week 1 - Convex Sets](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week1/solutionSubmission1.pdf)
 * [Week 2 - Convex Functions](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week2/solutionSubmission2.pdf)
 * [Week 3 - Subdifferential](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week3/solutionSubmission3.pdf)
+* [Week 4 - Convex Conjugate I](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week4/solutionSubmission4.pdf)
 
 ## Programming Exercises
 * [Week 2 - Inpainting](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week2/programmingSubmission2/inpainting.ipynb)
+* [Week 4 - SUDOKU](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week4/programmingSubmission4/SUDOKU.ipynb)
 
 ## Versioning
 
