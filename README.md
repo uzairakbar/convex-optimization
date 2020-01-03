@@ -8,6 +8,7 @@ This project lists all of the exercises and deliverables for the TUM class [Conv
 * [Week 4 - Convex Conjugate I](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week4/solutionSubmission4.pdf)
 * [Week 5 - Convex Conjugate II](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week5/solutionSubmission5.pdf)
 * [Week 6 - Proximal Operator](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week6/solutionSubmission6.pdf)
+* [Week 7 - Duality](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week7/solutionSubmission7.pdf)
 
 ## Programming Exercises
 * [Week 0 - Sparse Matrices](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week0/programmingSubmission0/sparseMatrices.ipynb)
