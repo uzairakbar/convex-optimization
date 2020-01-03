@@ -12,11 +12,11 @@ This project lists all of the exercises and deliverables for the TUM class [Conv
 * [Week 8 - Exact Line Search](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week8/solutionSubmission8.pdf)
 
 ## Programming Exercises
-* [Week 0 - Sparse Matrices](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week0/programmingSubmission0/sparseMatrices.ipynb)
-* [Week 2 - Inpainting](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week2/programmingSubmission2/inpainting.ipynb)
-* [Week 4 - SUDOKU](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week4/programmingSubmission4/SUDOKU.ipynb)
-* [Week 6 - Multinomial Logistic Regression](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week6/programmingSubmission6/logisticRegression.ipynb)
-* [Week 8 - Image Denoising by Line Search](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week8/programmingSubmission8/denoisingLinesearch.ipynb)
+* [Week 0 - Sparse Matrices & Total Variation](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week0/programmingSubmission0/sparseMatrices.ipynb)
+* [Week 2 - Inpainting by Total Variation](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week2/programmingSubmission2/inpainting.ipynb)
+* [Week 4 - SUDOKU by Projected Gradient](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week4/programmingSubmission4/SUDOKU.ipynb)
+* [Week 6 - Multinomial Logistic Regression by Proximal Gradient](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week6/programmingSubmission6/logisticRegression.ipynb)
+* [Week 8 - Denoising by Line Search](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week8/programmingSubmission8/denoisingLineSearch.ipynb)
 
 ## Versioning
 
