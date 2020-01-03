@@ -9,12 +9,14 @@ This project lists all of the exercises and deliverables for the TUM class [Conv
 * [Week 5 - Convex Conjugate II](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week5/solutionSubmission5.pdf)
 * [Week 6 - Proximal Operator](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week6/solutionSubmission6.pdf)
 * [Week 7 - Duality](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week7/solutionSubmission7.pdf)
+* [Week 8 - Exact Line Search](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week8/solutionSubmission8.pdf)
 
 ## Programming Exercises
 * [Week 0 - Sparse Matrices](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week0/programmingSubmission0/sparseMatrices.ipynb)
 * [Week 2 - Inpainting](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week2/programmingSubmission2/inpainting.ipynb)
 * [Week 4 - SUDOKU](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week4/programmingSubmission4/SUDOKU.ipynb)
 * [Week 6 - Multinomial Logistic Regression](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week6/programmingSubmission6/logisticRegression.ipynb)
+* [Week 8 - Image Denoising by Line Search](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week8/programmingSubmission8/denoisingLinesearch.ipynb)
 
 ## Versioning
 
