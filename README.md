@@ -1,5 +1,5 @@
 # Convex Optimization
-This project lists all of the exercises and deliverables for the TUM class [Convex Optimization for Machine Learning &amp; Computer Vision](https://vision.in.tum.de/teaching/ws2019/cvx4cv) (Winter Semester 2019/20).
+This project lists all of my solutions to the exercises and deliverables for the TUM class [Convex Optimization for Machine Learning &amp; Computer Vision](https://vision.in.tum.de/teaching/ws2019/cvx4cv) (Winter Semester 2019/20).
 
 ## Theoretical Exercises
 * [Week 1 - Convex Sets](https://github.com/uzairakbar/convex-optimization/blob/master/exercises/week1/solutionSubmission1.pdf)
